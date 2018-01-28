@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 
 
 
-        //TODO : handle click listener in button and get values from the editText and affect it to two variables
+        //TODO : handle click listener in button and get values from the editText
 
 
         //TODO : Create Intent and send email content to the welcome_activity
